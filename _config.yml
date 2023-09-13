@@ -1,0 +1,17 @@
+# Setup
+title: whitepaper's blog
+description:
+baseurl: ""
+permalink: pretty
+
+paginate: 5
+
+# About/contact
+author:
+  name: JB Lee
+  url:
+  email: ijb0708@naver.com
+
+# Gems
+plugins:
+  - jekyll-paginate
