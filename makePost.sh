@@ -18,4 +18,5 @@ touch $fileName
 
 echo --- >> $fileName
 echo title: $title >> $fileName
+echo date: $(date +"%y-%m-%d %H:%M")  >> $fileName
 echo --- >> $fileName
