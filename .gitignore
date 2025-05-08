@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+dist/
+.env
+.cache/
+
+# Quartz build output (optional: ignore if not using GitHub Pages from /docs)
+public/
+docs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor folders & personal tools
+.vscode/
+.idea/
+.obsidian/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Quartz dev template files (optional: ignore or delete)
+.gitattributes
+.github/
+.node-version
+.npmrc
+.prettierignore
+.prettierrc
+
+# Excalidraw source files (if you’re using .png instead)
+#*.excalidraw.md
+

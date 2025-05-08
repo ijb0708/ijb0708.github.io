@@ -1,0 +1,35 @@
+
+회사)삐뽀 관련정보
+
+dev 
+    192.168.100.212
+
+    192.168.100.211
+
+stg 116.125.141.197 
+    root:
+        id: root
+        pass: bluedigm!197
+    user:
+        id: bbippo
+        pass: bdbp!@197
+    cafe:
+        id: bluedigm8393
+        pass: qmffnekdla!2
+    gitlab:
+        id:  root
+        pass: bluedigm1!
+    jenkins:
+        id: stgbluedigm
+        pass: bluedigm1!
+
+prod 116.125.141.206 
+    root
+        id: root
+        pass: bluedigm!206
+    user:
+        id: bbippo
+        pass: bdbp!@206
+    cafe:
+        id: bluedigm8394
+        pass: qmffnekdla!2
