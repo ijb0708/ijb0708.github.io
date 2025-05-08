@@ -3,6 +3,7 @@ node_modules/
 dist/
 .env
 .cache/
+package-lock.json
 
 # Quartz build output (optional: ignore if not using GitHub Pages from /docs)
 public/
@@ -29,6 +30,13 @@ yarn-error.log*
 .npmrc
 .prettierignore
 .prettierrc
+
+# Quartz build cache
+.quartz-cache/
+
+# Quartz public output (선택 사항)
+public/
+
 
 # Excalidraw source files (if you’re using .png instead)
 #*.excalidraw.md
